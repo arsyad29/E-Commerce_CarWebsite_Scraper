@@ -11,7 +11,7 @@ Information
 - Count of seats
 - Price<br>
 
-you can filter based on the website too, Happy Scraping!!!
+You can filter based on the website too (Just input the number while running this program), Happy Scraping!!!
 
 Steps to run
 - Setup for Virtual Environment in cmd
