@@ -1,5 +1,16 @@
 # E-Commerce_CarWebsite_Scraper
 
+Information
+Here's the base link: https://mobilbaru.mobil123.com/price-list
+What data you get is:
+- Links
+- Name of car
+- Capacity engine
+- Transmission
+- Type of fuel
+- Count of seats
+- Price
+
 Steps to run
 
 - Setup for Virtual Environment in cmd
