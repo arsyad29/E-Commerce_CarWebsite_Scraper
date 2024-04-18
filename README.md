@@ -11,14 +11,14 @@ code .
 cd directory_name
 ```
 
-- Run These commands to run scraper
-
-```bash
-scrapy crawl scrap_mobil -o data.json # (if you want to export into json file)
-scrapy crawl scrap_mobil -o data.csv # (if you want to export into csv file)
-```
-
 - Run These commands in your terminal to get all requirements package
 ```bash
 pip install -r requirements.txt 
+```
+
+- Run These commands to run scraper
+```bash
+# Make sure before you run this command that your terminal is in directory with scrapy.cfg
+scrapy crawl scrap_mobil -o data.json # (if you want to export into json file)
+scrapy crawl scrap_mobil -o data.csv # (if you want to export into csv file)
 ```
