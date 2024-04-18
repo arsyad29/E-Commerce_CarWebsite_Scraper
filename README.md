@@ -10,7 +10,7 @@ Information
 - Type of fuel
 - Count of seats
 - Price
-<br>you can filter based on the website too, Happy Scraping!!!
+you can filter based on the website too, Happy Scraping!!!
 
 Steps to run
 - Setup for Virtual Environment in cmd
