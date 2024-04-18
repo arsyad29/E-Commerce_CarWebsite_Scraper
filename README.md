@@ -9,7 +9,7 @@ Information
 - Transmission
 - Type of fuel
 - Count of seats
-- Price
+- Price<br>
 you can filter based on the website too, Happy Scraping!!!
 
 Steps to run
