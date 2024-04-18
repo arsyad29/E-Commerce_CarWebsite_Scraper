@@ -2,7 +2,7 @@
 
 Information
 <br>Here's the base link: https://mobilbaru.mobil123.com/price-list
-<br>The data you will get is:
+<br>The data you will get are:
 - Links
 - Name of car
 - Capacity engine
