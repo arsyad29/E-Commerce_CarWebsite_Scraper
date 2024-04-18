@@ -2,7 +2,7 @@
 
 Information
 <br>Here's the base link: https://mobilbaru.mobil123.com/price-list
-<br>What data you get is:
+<br>What data will you get is:
 - Links
 - Name of car
 - Capacity engine
@@ -10,6 +10,7 @@ Information
 - Type of fuel
 - Count of seats
 - Price<br>
+
 you can filter based on the website too, Happy Scraping!!!
 
 Steps to run
